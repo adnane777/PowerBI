@@ -31,7 +31,6 @@ This Power BI report provides **interactive dashboards and data visualisations**
 
 ## References
 
-- Data Source: [Specify Dataset Used]
 - Power BI Official Documentation: [https://powerbi.microsoft.com/](https://powerbi.microsoft.com/)
 
 ---
